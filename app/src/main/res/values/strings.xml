@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTaskApp</string>
+    <string name="Selected_Item">selectedItem</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+
+</resources>
